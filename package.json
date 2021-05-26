@@ -1,6 +1,6 @@
 {
   "name": "alweb-front-end-relyon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "babel-polyfill": "^6.26.0",
     "dayjs": "^1.8.28",
     "eslint": "^5.16.0",
-    "eslint-config-alweb": "^1.0.0",
+    "eslint-config-alweb": "^1.0.1",
     "eslint-plugin-cypress": "^2.11.2",
     "eslint-plugin-html": "^4.0.2",
     "eslint-plugin-import": "^2.7.0",
